@@ -1,0 +1,21 @@
+{
+  "name": "我的个人图标库",
+  "description": "自用精选图标集",
+  "icons": [
+    {
+      "name": "东方财富",
+      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/东方财富.PNG"
+    },
+    {
+      "name": "元气壁纸",
+      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/元气壁纸.PNG"
+    },
+    {
+      "name": "壁纸",
+      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/壁纸.PNG"
+    }
+    {
+      "name": "遥忘",
+      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/遥忘.PNG"
+    }
+}
