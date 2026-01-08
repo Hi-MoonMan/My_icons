@@ -1,0 +1,59 @@
+{
+	"name": "MoonMan的自用图标库",
+	"description": "自用图标集",
+	"icons":
+	[
+		{
+			"name": "一淘", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/一淘.png"
+		}
+		{
+			"name": "东方财富", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/东方财富.png"
+		}
+		{
+			"name": "元气壁纸", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/元气壁纸.png"
+		}
+		{
+			"name": "咪咕音乐", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/咪咕音乐.png"
+		}
+		{
+			"name": "壁纸", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/壁纸.png"
+		}
+		{
+			"name": "扫描全能王", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/扫描全能王.png"
+		}
+		{
+			"name": "有道词典", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/有道词典.png"
+		}
+		{
+			"name": "美团外卖", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/美团外卖.png"
+		}
+		{
+			"name": "虎牙", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/虎牙.png"
+		}
+		{
+			"name": "识货", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/识货.png"
+		}
+		{
+			"name": "遥忘", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/遥忘.png"
+		}
+		{
+			"name": "银行", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/银行.png"
+		}
+		{
+			"name": "屏蔽VPN", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/屏蔽VPN.png"
+		}
+	]
+}
