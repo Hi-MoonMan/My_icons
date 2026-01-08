@@ -2,10 +2,6 @@
   "name": "Moon自用图标集",
   "description": "自用精选图标库",
   "icons": {
-    "Huya": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/huya.png",
-    "东方财富": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/东方财富.PNG",
-    "元气壁纸": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/元气壁纸.PNG",
-    "壁纸": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/壁纸.PNG"
-    "遥忘": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/遥忘.PNG"
+    "Huya": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/hy.png",
   }
 }
