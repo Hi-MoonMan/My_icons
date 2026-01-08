@@ -1,7 +1,10 @@
 {
-  "name": "Moon自用图标集",
-  "description": "自用精选图标库",
-  "icons": {
-    "hy": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/hy.png",
-  }
+	"name": "可莉图标",
+	"description": "可莉的图标订阅",
+	"icons": [
+		{
+			"name": "hy",
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/main/hy.png"
+		}
+	]
 }
