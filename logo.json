@@ -1,7 +1,8 @@
 {
   "name": "图标库",
   "description": "收集一些自己常用的图标",
-  "icons": [
+  "icons":
+  [
     {
       "name": "咪咕音乐",
       "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/miguyinyue.png"
