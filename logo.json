@@ -3,13 +3,9 @@
   "description": "收集一些自己常用的图标",
   "icons":
   [
-    {
-      "name": "咪咕音乐",
-      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/miguyinyue.png"
-    },
      {
-      "name": "shihuo",
-      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/识货.png"
+      "name": "酷我",
+      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/kwyy.PNG"
     }
   ]
 }
