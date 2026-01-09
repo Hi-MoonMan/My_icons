@@ -1,8 +1,7 @@
 {
 	"name": "MoonMan的自用图标库",
 	"description": "自用图标集",
-	"icons":
-	[
+	"icons": [
 		{
 			"name": "一淘", 
 			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/一淘.png"
