@@ -3,12 +3,12 @@
   "description": "收集一些自己常用的图标",
   "icons": [
     {
-      "name": "huya",
-      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/huya.png"
+      "name": "咪咕音乐",
+      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/miguyinyue.png"
     },
      {
-      "name": "酷我音乐",
-      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/酷我音乐.png"
+      "name": "shihuo",
+      "url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/识货.png"
     }
   ]
 }
