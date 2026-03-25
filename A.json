@@ -62,7 +62,11 @@
 		{
 			"name": "屏蔽VPN", 
 			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/pbvpn.png"
-		}
+		},
+		{
+			"name": "同花顺", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/ths.png"
+		},
 		{
 			"name": "金十数据", 
 			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/jssj.png"
