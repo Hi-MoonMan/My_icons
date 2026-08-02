@@ -4,10 +4,6 @@
 	"icons":
 	[
 		{
-			"name": "宝可梦", 
-			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/bkm.png"
-		},
-		{
 			"name": "酷我音乐", 
 			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/kwyy.png"
 		},
@@ -98,6 +94,10 @@
 		{
 			"name": "信易知", 
 			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/xyz.png"
+		},
+		{
+			"name": "宝可梦", 
+			"url": "https://raw.githubusercontent.com/Hi-MoonMan/My_icons/refs/heads/Main/bkm.png"
 		}
 	]
 }
